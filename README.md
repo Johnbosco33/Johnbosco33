@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Johnbosco33
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning how to code on web3(incl how to build smart contracts) and build websites 
+- 🌱 I’m currently learning HTML&CSS
 - 💞️ I’m looking to collaborate on businesses requiring any of the above things I'm learning 
-- 📫 How to reach me: twitter @JohnboscoCFC,
+- 📫 How to reach me:
 Instagram @_johnboscoo,
 WhatsApp +2348058410997.
 
